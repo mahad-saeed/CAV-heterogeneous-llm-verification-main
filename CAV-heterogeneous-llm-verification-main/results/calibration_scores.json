@@ -1,0 +1,42 @@
+{
+  "very_strong": {
+    "accuracy": 0.98,
+    "avg_confidence": 0.9872,
+    "calibration_error": 0.0072,
+    "ece": 0.0288,
+    "brier": 0.0175,
+    "calibration_score": 0.9449
+  },
+  "strong": {
+    "accuracy": 0.94,
+    "avg_confidence": 1.0,
+    "calibration_error": 0.06,
+    "ece": 0.06,
+    "brier": 0.06,
+    "calibration_score": 0.8306
+  },
+  "medium": {
+    "accuracy": 0.54,
+    "avg_confidence": 0.736,
+    "calibration_error": 0.196,
+    "ece": 0.244,
+    "brier": 0.1212,
+    "calibration_score": 0.3282
+  },
+  "weak": {
+    "accuracy": 0.96,
+    "avg_confidence": 0.99,
+    "calibration_error": 0.03,
+    "ece": 0.03,
+    "brier": 0.025,
+    "calibration_score": 0.9033
+  },
+  "very_weak": {
+    "accuracy": 0.94,
+    "avg_confidence": 0.99,
+    "calibration_error": 0.05,
+    "ece": 0.07,
+    "brier": 0.0634,
+    "calibration_score": 0.8305
+  }
+}

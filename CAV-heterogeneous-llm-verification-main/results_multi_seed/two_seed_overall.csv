@@ -1,0 +1,5 @@
+method,mean_over_benchmarks,std_over_benchmarks
+Majority Voting,88.917,8.255
+CAV-Full (Ours),89.083,8.413
+Random Weights,84.167,8.875
+Best Agent Only,89.083,6.385

@@ -1,0 +1,4 @@
+benchmark,cal_only_acc,con_only_acc,full_cav_acc,majority_acc
+gsm8k,0.97,0.975,0.97,0.97
+mmlu,0.84,0.835,0.915,0.91
+truthful_qa,0.8,0.8,0.8,0.8

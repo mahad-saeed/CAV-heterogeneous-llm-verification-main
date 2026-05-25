@@ -1,0 +1,5 @@
+Benchmark,Majority Voting,CAV-Full (Ours),Random Weights,Best Agent Only
+GSM8K,97.0,97.0,94.0,96.0
+MMLU,91.0,91.5,81.5,89.0
+TRUTHFUL_QA,80.0,80.0,75.0,84.5
+AVERAGE,89.3,89.5,83.5,89.8

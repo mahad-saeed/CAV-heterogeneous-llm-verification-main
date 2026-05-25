@@ -1,0 +1,11 @@
+.env
+.env.local
+.DS_Store
+__pycache__/
+*.pyc
+*.aux
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.synctex.gz

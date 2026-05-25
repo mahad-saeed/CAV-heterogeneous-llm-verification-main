@@ -1,0 +1,21 @@
+{
+  "timestamp_utc": "2026-04-25T11:03:27.264333Z",
+  "seed": 43,
+  "use_local_ollama": false,
+  "groq_agents": {
+    "very_strong": "openai/gpt-oss-120b",
+    "strong": "llama-3.3-70b-versatile",
+    "medium": "qwen/qwen3-32b",
+    "weak": "openai/gpt-oss-20b",
+    "very_weak": "llama-3.1-8b-instant"
+  },
+  "ollama_agents": {},
+  "benchmarks": [
+    "gsm8k",
+    "mmlu",
+    "truthful_qa"
+  ],
+  "request_timeout_sec": 45.0,
+  "max_retries": 3,
+  "duration_sec": 2573.86
+}

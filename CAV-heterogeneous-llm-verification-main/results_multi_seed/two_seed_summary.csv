@@ -1,0 +1,4 @@
+Benchmark,Majority Voting mean,Majority Voting std,CAV-Full (Ours) mean,CAV-Full (Ours) std,Random Weights mean,Random Weights std,Best Agent Only mean,Best Agent Only std
+GSM8K,97.0,0.0,97.0,0.0,94.0,0.0,96.25,0.354
+MMLU,89.25,2.475,90.0,2.121,81.75,0.354,87.0,2.828
+TRUTHFUL_QA,80.5,0.707,80.25,0.354,76.75,2.475,84.0,0.707

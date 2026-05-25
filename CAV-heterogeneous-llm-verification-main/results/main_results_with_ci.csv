@@ -1,0 +1,13 @@
+benchmark,method,acc,ci95_low,ci95_high
+GSM8K,Majority Voting,97.0,94.5,99.0
+GSM8K,CAV-Full (Ours),97.0,94.5,99.0
+GSM8K,Random Weights,94.0,90.5,97.0
+GSM8K,Best Agent Only,96.0,93.0,98.5
+MMLU,Majority Voting,91.0,87.0,94.5
+MMLU,CAV-Full (Ours),91.5,87.5,95.0
+MMLU,Random Weights,81.5,76.0,87.0
+MMLU,Best Agent Only,89.0,84.5,93.0
+TRUTHFUL_QA,Majority Voting,80.0,74.0,85.5
+TRUTHFUL_QA,CAV-Full (Ours),80.0,74.0,85.5
+TRUTHFUL_QA,Random Weights,75.0,69.0,80.51
+TRUTHFUL_QA,Best Agent Only,84.5,79.49,89.5
